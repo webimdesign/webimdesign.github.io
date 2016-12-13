@@ -286,20 +286,20 @@
 }
 @media screen and (max-width:435px){
   .header{
-    height:530px;
+    height:600px;
   }
   .header h2{
     font-size:37px;
   }
   .infos{
-    height:1200px;
+    height:1300px;
   }
   .whyMe{
     height: 3000px;
   }
   .whyMe-msg{
     height: 900px;
-    margin-top:-80px;
+    margin-top:-180px;
   }
   .whyMe-msg h6.subtitle{
     font-size: 22px;
@@ -308,10 +308,10 @@
 }
 @media screen and (max-width:400px){
   .header{
-    height:450px;
+    height:550px;
   }
   .infos{
-    height: 1200px;
+    height: 1300px;
   }
   .mywork{
     height: 1600px;
