@@ -1,0 +1,343 @@
+@media screen and (max-width:1280px){
+  .content{
+    width: 100%;
+  }
+  .whyMe-content{
+    width: 90%;
+  }
+
+  .whyMe-unit {
+    padding-top: 30px;
+  }
+  .whyMe-msg h4{
+    color: #777;
+    font-family:Century Gothic;
+    font-size: 17px;
+    line-height: 26px;
+  }
+}
+@media screen and (max-width:1200px){
+  .header h2{
+    font-size: 90px;
+  }
+  .content{
+    width: 90%;
+  }
+  .mywork{
+    height: 1200px;
+  }
+  .work-unit{
+    width: 50%;
+    height: 300px;
+  }
+  .whyMe{
+    height: 1750px;
+    background-color: #fff;
+    margin-top: -22px;
+   }
+   .whyMe-msg{
+     height: 650px;
+   }
+
+}
+@media screen and (max-width:1216px){
+  nav{
+    width: 100%;
+  }
+
+}
+@media screen and (max-width:1080px){
+
+  .content{
+    width: 100%;
+  }
+  .infos{
+    height:1100px;
+  }
+  .work-unit{
+    width: 50%;
+    height: 275px;
+  }
+  .infos p{
+    line-height: 28px;
+    width: 75%;
+    font-size: 17px;
+  }
+  .whyMe{
+    height: 2850px;
+    background-color: #fff;
+    margin-top: -22px;
+  }
+  .whyMe-msg{
+    height: 700px;
+  }
+  .whyMe-content{
+    margin-top: 150px;
+    height: 1200px;
+  }
+  .whyMe-unit {
+    width: 100%;
+    height: 500px;
+  }
+@media screen and (max-width:900px) {
+  .work-unit{
+    height: 250px;
+  }
+  .whyMe{
+    height: 2950px;
+  }
+  .whyMe-msg{
+    width: 90%;
+    margin: 0px auto;
+    height: 800px;
+  }
+  .whyMe-msg h4{
+    display: block;
+    width: 80%;
+    margin-top:200px;
+    padding-top: 40px;
+    margin: 0px auto;
+  }
+  .whyMe-msg img.profilwhy{
+    margin: 0 auto;
+    display: block;
+  }
+}
+@media screen and (max-width:800px) {
+  .header h2{
+    font-size: 75px;
+    margin-top: 170px;
+  }
+  .mywork{
+    height: 1050px;
+  }
+  .work-unit{
+    height: 225px;
+  }
+  .thinker-learner-designer{
+    margin-top: 60px;
+  }
+  .whyMe{
+    height: 3000px;
+  }
+  .whyMe-msg{
+    height: 850px;
+  }
+  h3.logo{
+    display: none;
+  }
+}
+  @media screen and (max-width:750px){
+    .whyMe{
+      height: 3100px;
+    }
+    .whyMe-msg{
+      height: 900px;
+    }
+  }
+  @media screen and (max-width:700px){
+    .whyMe-msg{
+      height: 1000px;
+    }
+    .header h2{
+      font-size: 65px;
+    }
+    .work-unit{
+      height: 200px;
+    }
+    .thinker-learner-designer{
+      margin-top: 90px;
+    }
+  }
+  @media screen and (max-width:660px){
+    .infos{
+      height:1200px;
+    }
+    .mywork{
+      height: 1800px;
+    }
+    .content{
+      width: 80%;
+    }
+    .work-unit{
+      width: 100%;
+      height: 250px;
+    }
+    i.icon{
+      color: #999;
+      display: none;
+      font-size: 30px;
+    }
+    span.icon{
+      font-family:Century Gothic;
+      font-size: 30px;
+    }
+    .tld2{
+      display: block;
+    }
+    .tld1{
+      display: none;
+    }
+  }
+@media screen and (max-width:590px){
+  .infos{
+    height:1300px;
+  }
+  .whyMe-msg{
+    height: 1050px;
+  }
+  .whyMe{
+    height: 3150px;
+  }
+}
+@media screen and (max-width:550px){
+  .whyMe-msg{
+    height: 1150px;
+  }
+  .whyMe{
+    height: 3350px;
+  }
+  .whyMe-unit{
+    height: 525px;
+  }
+}
+@media screen and (max-width:510px){
+  .whyMe-msg{
+    height: 1200px;
+  }
+  .whyMe{
+    height: 3500px;
+  }
+  .whyMe-unit {
+    width: 100%;
+    height: 550px;
+  }
+  .whyMe-msg h6.subtitle{
+    font-size: 25px;
+  }
+}
+@media screen and (max-width:475px){
+  .whyMe{
+    height: 3050px;
+  }
+  .whyMe-msg{
+    height: 900px;
+  }
+  .whyMe-unit {
+    width: 100%;
+    height: 500px;
+  }
+  .content{
+    width: 100%;
+  }
+  .infos p{
+    line-height: 28px;
+    width: 75%;
+    font-size: 15px;
+  }
+  .whyMe-msg h4{
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .handshake1{
+    display: none;
+  }
+  .handshake2{
+    display: block;
+  }
+  .chat1{
+    display: none;
+  }
+  .chat2{
+    display: block;
+  }
+  .creative1{
+    display: none;
+  }
+  .creative2{
+    display: block;
+  }
+  i.icon{
+    font-size: 20px;
+  }
+  span.icon{
+    font-size: 20px;
+  }
+
+}
+@media screen and (max-width:470px){
+  .whyMe{
+    height: 2950px;
+  }
+  .whyMe-msg img.profilwhy{
+    margin: 0 auto;
+    display: none;
+  }
+  .whyMe-msg{
+    height: 800px;
+  }
+}
+@media screen and (max-width:435px){
+  .infos{
+    height:1350px;
+  }
+  .whyMe{
+    height: 3000px;
+  }
+  .whyMe-msg{
+    height: 900px;
+  }
+  .whyMe-msg h6.subtitle{
+    font-size: 22px;
+  }
+}
+@media screen and (max-width:400px){
+  .infos{
+    height: 1400px;
+  }
+  .mywork{
+    height: 1600px;
+  }
+  .work-unit{
+    height: 200px;
+  }
+  .whyMe{
+    height: 3150px;
+  }
+  .whyMe-unit{
+    height: 550px;
+  }
+}
+@media screen and (max-width:380px){
+  .infos{
+    height: 1450px;
+  }
+  .thinker-learner-designer{
+    display: none;
+  }
+  .whyMe-msg{
+    height: 800px;
+  }
+  .whyMe-msg h4{
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .whyMe-msg h6.subtitle{
+    font-size: 20px;
+  }
+}
+@media screen and (max-width:360px){
+  .whyMe{
+    height: 3200px;
+  }
+  .whyMe-msg{
+    height: 850px;
+  }
+  .whyMe-unit{
+    height: 580px;
+  }
+}
+@media screen and (max-height:800px){
+  
+}

@@ -1,0 +1,18 @@
+body{
+  background-image: url("imagini/grey.png");
+  background-repeat: repeat;
+
+}
+.fa{
+  border:2px solid;
+  border-color:#fff;
+  padding:10px;
+  border-radius:14px;
+  color:white;
+  font-size:23px;
+}
+.fa:hover{
+  background-color: #000;
+  cursor: pointer;
+  border-color: #3783D0;
+}
