@@ -277,11 +277,17 @@
   .whyMe-msg{
     height: 800px;
   }
+  .header{
+    height:550px;
+  }
   .header h2{
     font-size:35px;
   }
 }
 @media screen and (max-width:435px){
+  .header{
+    height:550px;
+  }
   .header h2{
     font-size:35px;
   }
