@@ -292,13 +292,14 @@
     font-size:35px;
   }
   .infos{
-    height:1350px;
+    height:1100px;
   }
   .whyMe{
     height: 3000px;
   }
   .whyMe-msg{
     height: 900px;
+    margin-top:-80px;
   }
   .whyMe-msg h6.subtitle{
     font-size: 22px;
@@ -306,8 +307,11 @@
   
 }
 @media screen and (max-width:400px){
+  .header{
+    height:450px;
+  }
   .infos{
-    height: 1400px;
+    height: 1100px;
   }
   .mywork{
     height: 1600px;
@@ -323,9 +327,7 @@
   }
 }
 @media screen and (max-width:380px){
-  .infos{
-    height: 1450px;
-  }
+
   .thinker-learner-designer{
     display: none;
   }
@@ -351,6 +353,4 @@
     height: 580px;
   }
 }
-@media screen and (max-height:800px){
-  
-}
+
