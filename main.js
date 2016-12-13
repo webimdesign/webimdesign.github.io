@@ -4,13 +4,14 @@ $(document).ready(function(){
 //var i=1;
 //click si scroll la div
 
+/* Delete the comm to see if the js works 
 if ($(window).width() < 960) {
    alert('Less than 960');
 }
 else {
    alert('More than 960');
 }
-
+*/
 //
     $('.about').click(function(){
         $('html, body').animate({scrollTop:$('.infos').position().top},900,'swing');
