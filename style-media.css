@@ -299,10 +299,14 @@
   }
   .whyMe-msg{
     height: 900px;
-    margin-top:-30px;
+    margin-top:20px;
   }
   .whyMe-msg h6.subtitle{
     font-size: 22px;
+  }
+  .whyMe-content{
+    margin-top: 10px;
+   
   }
   
 }
