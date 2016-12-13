@@ -278,7 +278,7 @@
     height: 800px;
   }
   .header{
-    height:550px;
+    height:470px;
   }
   .header h2{
     font-size:35px;
@@ -286,7 +286,7 @@
 }
 @media screen and (max-width:435px){
   .header{
-    height:550px;
+    height:470px;
   }
   .header h2{
     font-size:35px;
