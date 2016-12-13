@@ -278,10 +278,13 @@
     height: 800px;
   }
   .header h2{
-    font-size:50px;
+    font-size:35px;
   }
 }
 @media screen and (max-width:435px){
+  .header h2{
+    font-size:35px;
+  }
   .infos{
     height:1350px;
   }
@@ -294,6 +297,7 @@
   .whyMe-msg h6.subtitle{
     font-size: 22px;
   }
+  
 }
 @media screen and (max-width:400px){
   .infos{
