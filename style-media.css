@@ -278,21 +278,21 @@
     height: 800px;
   }
   .header{
-    height:470px;
+    height:530px;
   }
   .header h2{
-    font-size:35px;
+    font-size:37px;
   }
 }
 @media screen and (max-width:435px){
   .header{
-    height:470px;
+    height:530px;
   }
   .header h2{
-    font-size:35px;
+    font-size:37px;
   }
   .infos{
-    height:1100px;
+    height:1200px;
   }
   .whyMe{
     height: 3000px;
@@ -311,7 +311,7 @@
     height:450px;
   }
   .infos{
-    height: 1100px;
+    height: 1200px;
   }
   .mywork{
     height: 1600px;
