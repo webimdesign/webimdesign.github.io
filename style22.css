@@ -1,0 +1,169 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  background-color: #09f;
+  height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-position: center center;
+  background-attachment: fixed;
+}
+.title{
+  margin-top: 110px;
+}
+.title h1{
+  color: white;
+  color: #fff;
+  font-family: 'Pacifico', cursive;
+  font-style: italic;
+  //text-transform: uppercase;
+  letter-spacing: 11px;
+  font-size: 81px;
+  //font-weight: bold;
+  //text-decoration: overline;
+}
+.title p{
+  color: #AB8;
+  font-size: 40px;
+  font-family: 'Source Sans Pro',sans-serif;
+  letter-spacing: 10px;
+  //border: 2px dotted green;
+  padding: 10px;
+  margin-top: 51px;
+  width: 100%;
+  background-color: #222;
+  opacity: 0.78;
+}
+.title span{
+  color: #295C85;
+  //color:#22648F;
+  //text-decoration: overline;
+  border-top: 3px solid #22648F;
+}
+.img1{
+  height: 200px;
+  width: 200px;
+  box-shadow: 4px 10px 10px #333;
+  border-radius: 200px;
+  border: 3px solid white;
+  background-image: url("imagini/mani.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+}
+.img2{
+  height: 200px;
+  width: 200px;
+  box-shadow: 4px 10px 10px #333;
+  border-radius: 200px;
+  border: 3px solid white;
+  background-image: url("imagini/haircut.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+}
+.img3{
+  height: 200px;
+  width: 200px;
+  box-shadow: 4px 10px 10px #333;
+  border-radius: 200px;
+  border: 3px solid white;
+  background-image: url("imagini/pedi.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+}
+.button{
+  margin-top: 100px;
+}
+a.link{
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 41px;
+  font-family: 'Source Sans Pro',sans-serif;
+  border: 3px solid #fff;
+  padding: 11px;
+  transition: 1s;
+}
+a.link:hover{
+  text-decoration: none;
+  color: #295C85;
+  background-color: #fff;
+  transition: 1s;
+}
+@media screen and (max-width:1080px){
+  .header{
+    height: 1400px;
+  }
+  .title p{
+    font-size: 50px;
+    letter-spacing: 5px;
+    margin-top: 50px;
+  }
+  .title span{
+    border-top: 0px;
+  }
+  .button{
+    margin-top: 370px;
+    //display: none;
+  }
+  a.link{
+    font-size: 65px;
+    padding: 30px;
+
+  }
+  .title h1{
+
+    letter-spacing: 11px;
+    font-size: 101px;
+  }
+  .title{
+    margin-top: 100px;
+  }
+}
+@media screen and (max-width:768px){
+  .header{
+    height: 1350px;
+  }
+  .button{
+    margin-top: 120px;
+
+    //display: none;
+  }
+  a.link{
+    font-size: 35px;
+    padding: 15px;
+
+  }
+}
+@media screen and (max-width:480px){
+  .header{
+    height: 1350px;
+  }
+  .title p{
+    font-size: 30px;
+    letter-spacing: 5px;
+  }
+  .title span{
+    border-top: 0px;
+  }
+  .button{
+    margin-top: 110px;
+    //display: none;
+  }
+  .title h1{
+
+    letter-spacing: 8px;
+    font-size: 71px;
+  }
+  .title{
+    margin-top: 100px;
+  }
+}
